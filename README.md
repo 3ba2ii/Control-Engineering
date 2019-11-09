@@ -13,5 +13,3 @@ Active Car Suspension System Design using Matlab & Simulink .
 
 
 
-Credits: Ahmed Abd-Elbakey Ghonem.
-      
