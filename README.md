@@ -1,8 +1,8 @@
-## Control Engineering Task 
+# Control Engineering Task 
 
 Active Car Suspension System Design using Matlab & Simulink .
 
-# Task Requirements:
+## Task Requirements:
 
 
 - Minimize the oscillation that occurs when the road (input) changes (Disturbance).
